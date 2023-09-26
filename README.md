@@ -1,7 +1,5 @@
 # Ledgr_Beta
 
-https://alphaledgr.streamlit.app
-
 Ledgr helps you build your wealth, rationally.
 
 
@@ -11,7 +9,7 @@ Forecast Price ranges and assess signals, and generate optimized asset holding a
 risks.
 
 *Application Overview -*
-
+One stop shop for many things finance. 
 **LedgrBase** : Track your holdings.
 
 **MarketBoard**: Follow Markets, Funds, Currencies, Volatilitity Indices & Treasury Rates
