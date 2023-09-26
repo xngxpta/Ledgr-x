@@ -1,0 +1,19 @@
+# requirements.txt
+numpy
+streamlit
+pandas
+pandas_datareader
+datetime
+plotly.express
+yfinance
+nsepy
+ta
+scikit-learn
+matplotlib
+seaborn
+mftool
+nsetools
+prophet
+PyportfolioOpt
+selectolax
+streamlit-extras
